@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shayan Mahmoudi</h1>
 <h3 align="center">A passionate frontend developer from Iran.Web developer. My expertise is in CSS and HTML programming languages. Programmable using the popular WordPress framework.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayanunk" alt="shayanunk" /></a> </p>
+
 
 - 🔭 I am currently working as a trainee... [Snapp](https://github.com/Tabasoume/Web-snapp.git)
 
